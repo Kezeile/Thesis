@@ -1,4 +1,4 @@
 Thesis
 ======
 
-Test repo
+Requirement for CS 199
