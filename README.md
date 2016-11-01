@@ -1,4 +1,3 @@
 Thesis
-======
 
-Requirement for CS 199
+This is a repo for cs 199
